@@ -14,6 +14,5 @@ Dataset Link : (http://bit.ly/w-data)
 
 LinkedIn POST : (https://bit.ly/3hizd11)
 
-Youtube Link: (https://bit.ly/3xZDxs5)
 
 ![Project Screenshot](project.png)
